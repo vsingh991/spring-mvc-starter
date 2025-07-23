@@ -7,11 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-Welcome to Spring  MVC !!!
-New Changes
-v4.0 done
-last changes
-done
+<h1>hello vaibhav </h1>
 </body>
 </html>
 
